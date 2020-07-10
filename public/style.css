@@ -1,0 +1,27 @@
+body{
+    padding: 20px;
+}
+.body{
+    padding: 50px;
+    width: 300px;
+    margin: 0 auto;
+    max-width: 200px;
+    border-radius: 250px;
+    background-color: black;
+}
+h2{
+    margin: 9px;
+    width: 40px;
+    background-color: white;
+}
+.main{
+    display: flex;
+    margin-bottom: 30px;
+    background-color: rgb(246, 28, 28);
+    width: 170px;
+}
+.btn{
+    width: 150px;
+    padding: 10px;
+    background-color: royalblue;
+}
