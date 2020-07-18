@@ -2,12 +2,13 @@ body{
     padding: 20px;
 }
 .body{
+    background-image: url(watch.jpg);
     padding: 50px;
     width: 300px;
     margin: 0 auto;
     max-width: 200px;
     border-radius: 250px;
-    background-color: black;
+    
 }
 h2{
     margin: 9px;
